@@ -1,0 +1,8 @@
+com\irfan\nilaimahasiswa\repository\NilaiMahasiswaRepository.class
+com\irfan\nilaimahasiswa\NilaimahasiswaApplication.class
+com\irfan\nilaimahasiswa\vo\ResponseTemplate.class
+com\irfan\nilaimahasiswa\vo\Mahasiswa.class
+com\irfan\nilaimahasiswa\entity\NilaiMahasiswa.class
+com\irfan\nilaimahasiswa\service\NilaiMahasiswaService.class
+com\irfan\nilaimahasiswa\controller\NilaiMahasiswaController.class
+com\irfan\nilaimahasiswa\vo\Matakuliah.class
