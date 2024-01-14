@@ -1,5 +1,0 @@
-com\irfan\warnet\entity\Warnet.class
-com\irfan\warnet\WarnetApplication.class
-com\irfan\warnet\controller\WarnetController.class
-com\irfan\warnet\repository\WarnetRepository.class
-com\irfan\warnet\service\WarnetService.class
